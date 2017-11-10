@@ -23,8 +23,8 @@ void setup(void)
   if (M2 == 1) {
   pinMode(PS_J1850_9141, OUTPUT);
   pinMode(PWM_nVPW, OUTPUT);
-  digitalWrite(PS_J1850_9141,LOW);
-  digitalWrite(PWM_nVPW);
+  digitalWrite(PS_J1850_9141,HIGH);
+  digitalWrite(PWM_nVPW, LOW);
   }
   pinMode(J1850_PIN, INPUT);
 
