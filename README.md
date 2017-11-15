@@ -1,5 +1,6 @@
 # j1850
-J1850 protocol for M2
+J1850 protocol for M2 from Macchina.cc
 
-Work in progress. No guarentee that will work at all
-Reworked another project to see if it would work.
+Work in progress. 
+
+VPW basic protocol currently works but needs to be expanded.
